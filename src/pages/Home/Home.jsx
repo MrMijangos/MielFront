@@ -1,9 +1,10 @@
 import React from "react";
+import Header from '../../components/header/header.jsx'
 
 function Home() {
     return (
         <>
-        <h1>Holaaaaaaaaaaaaaaa</h1>
+        <Header></Header>
         </>
     )
 }
